@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/ConexionBD.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/SplashWindow.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/LoginWindow.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/RetroalimentacionDAO.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/AsesorPedagogicoDAO.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/AsesorPedagogico.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/main/Main.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/controlador/AsesorControlador.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/controlador/BitacoraControlador.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/controlador/EstudianteControlador.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/controlador/LoginControlador.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/controlador/PerfilControlador.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/controlador/PracticaControlador.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/controlador/TutorControlador.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/Bitacora.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/BitacoraDAO.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/Estudiante.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/EstudianteDAO.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/Evidencia.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/EvidenciaDAO.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/Practica.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/PracticaDAO.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/Programa.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/ProgramaDAO.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/Retroalimentacion.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/Tipopractica.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/TipopracticaDAO.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/TutorAcademico.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/TutorAcademicoDAO.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/modelado/Usuario.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/PanelBitacoraEstudiante.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/PanelBitacoraTutor.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/PanelHome.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/PanelMiPractica.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/PanelPerfil.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/PanelPracticasTutor.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/PortalAsesorPedagogico.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/PortalTutorAcademico.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/RoundedPanel.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/SIGEPApp.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/StudentDashboard.java</file>
+            <file>file:/C:/Users/hanyi/OneDrive/Documentos/NetBeansProjects/SIGEP/src/vistas/UIUtils.java</file>
+        </group>
+    </open-files>
+</project-private>
